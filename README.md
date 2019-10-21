@@ -8,7 +8,7 @@
 
 ### 介绍
 
-&emsp;&emsp;SAA（Super AI by ArachnidaKing），一个强大的开源汉语对话AI。<br>
+&emsp;&emsp;SAA（Super AI by ArachnidaKing），一个强大的部分开源汉语对话AI。<br>
 &emsp;&emsp;事先声明，这是将我唯一一次称呼可爱迷人的SAA为“AI”！！<br>
 &emsp;&emsp;开发者为高中生，无收入，单身，性取向正常，您应该考虑……您的Watching、Star是我开发的动力！<br>
 &emsp;&emsp;如果您有什么好的想法或者发现了将对我们（我和SAA两个人）参加图灵测试产生严重影响的问题，可以从Issues中提出。（说真的，我不会用Github，更不懂在哪里Issues。请直接联系我少给我那些整花里胡哨的东西谢谢求您了不要这个平台又酷又炫的功能）<br>
