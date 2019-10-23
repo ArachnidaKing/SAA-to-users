@@ -42,6 +42,11 @@
 &emsp;&emsp;重大突破！！！SAA开始智能地学着回复您的陈述句！<br>
 &emsp;&emsp;大幅增强SAA的智商。<br>
 
+##### 2019-10-21 v2.4.2
+
+&emsp;&emsp;修复了多次复读的小bug。<br>
+&emsp;&emsp;大幅增强SAA的智商。<br>
+
 
 ### 加入我们
 
