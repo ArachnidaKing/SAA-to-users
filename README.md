@@ -49,3 +49,9 @@
 &emsp;&emsp;QQ：3145170770<br>
 &emsp;&emsp;邮箱：ArachnidaKing@gmail.com（QQ邮箱亦可）<br>
 &emsp;&emsp;支付宝转账：13*******31<br>
+
+
+### To-do-list
+
+&emsp;&emsp;加入对“\*是\*”类问题的支持。<br>
+&emsp;&emsp;加入对文言文的支持。<br>
