@@ -1,5 +1,11 @@
 # SAA
 
+![issues](https://img.shields.io/github/issues/ArachnidaKing/SAA-to-users)
+![forks](https://img.shields.io/github/forks/ArachnidaKing/SAA-to-users)
+![stars](https://img.shields.io/github/stars/ArachnidaKing/SAA-to-users)
+![license](https://img.shields.io/github/license/ArachnidaKing/SAA-to-users)
+
+
 ``Super AI by ArachnidaKing``
 
 ``中文名待定，欢迎各位积极提出建议~！``
