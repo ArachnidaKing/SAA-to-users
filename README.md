@@ -5,7 +5,6 @@
 ![stars](https://img.shields.io/github/stars/ArachnidaKing/SAA-to-users)
 ![license](https://img.shields.io/github/license/ArachnidaKing/SAA-to-users)
 
-
 ``Super AI by ArachnidaKing``
 
 ``中文名待定，欢迎各位积极提出建议~！``
@@ -18,7 +17,7 @@ SAA（Super AI by ArachnidaKing），一个强大的部分开源汉语对话AI�
 
 事先声明，这是将我唯一一次称呼可爱迷人的SAA为“AI”！！
 
-开发者为高中生，无收入，单身，性取向正常，您应该考虑……您的Watching、Star是我开发的动力！
+开发者为高中生，无收入，单身，性取向正常，您应该考虑……Watching、Star是我开发的动力！
 
 如果您有什么好的想法或者发现了将对我们（我和SAA两个人）参加图灵测试产生严重影响的问题，可以从Issues中提出。
 
@@ -26,6 +25,10 @@ SAA（Super AI by ArachnidaKing），一个强大的部分开源汉语对话AI�
 
 1. 好好问她几个问题，少整幺蛾子。
 2. 没了。
+
+### 下载链接
+请前往[Release](https://github.com/ArachnidaKing/SAA-to-users/releases)下载，或
+[直链下载](https://github.com/ArachnidaKing/SAA-to-users/releases/download/v2.4.2-beta/SAAproject.exe)。
 
 ### 加入我们
 
