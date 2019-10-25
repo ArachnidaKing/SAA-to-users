@@ -26,7 +26,7 @@ SAA（Super AI by ArachnidaKing），一个强大的部分开源汉语对话AI�
 1. 好好问她几个问题，少整幺蛾子。
 2. 没了。
 
-### 下载链接
+### 体验途径
 请前往[Release](https://github.com/ArachnidaKing/SAA-to-users/releases)下载，或
 [直链下载](https://github.com/ArachnidaKing/SAA-to-users/releases/download/v2.4.2-beta/SAAproject.exe)。
 
